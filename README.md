@@ -1,4 +1,4 @@
-# Life Direction
+# Life's Direction
 
 ![newJuliaOrder](https://user-images.githubusercontent.com/20923018/144691898-d3168a4e-d085-4587-abbd-008c421f884e.png)
 
