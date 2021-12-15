@@ -26,5 +26,3 @@
 
 ![image](https://user-images.githubusercontent.com/20923018/144693156-32e02008-1f3c-4b74-b2af-c813dd59242f.png)
 * **Ahmad Lutfi**
-
-pageUrl: https://adamwillisxanax.github.io/helloworld/
