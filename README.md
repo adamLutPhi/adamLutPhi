@@ -12,9 +12,10 @@
 - the golden Rule: "know that there is everything for everyone" 
 -- It all starts with the __Right Mindset__, that stems a right Programming Attitude
 -.- feel at ease with the painful Disappointement of Failure
-@_@ learn from Past Mistakes 
+**@_@** learn from **Past Mistakes** 
  Move onto the next Journey
-- life is not just about suffering, learn how to go _the way_ ... _dancing_ your way around it
+- life is not just about suffering, learn how to go _the way_  around **the Pit of DEATH** _dancing_ your way around it- Always
+
 ### Creativity Mantra†
 ![image](https://user-images.githubusercontent.com/20923018/144694561-eb705aa4-313a-4acb-a5ee-156bc3e5c3aa.png)
 
