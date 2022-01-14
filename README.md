@@ -3,7 +3,7 @@
 [![newJuliaOrder](Assets/newJuliaOrder.png)](Assets/newJuliaOrder.png)
 
 ## Overview
-![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwillisXanax&show_icons=true&theme=tokyonight)
+![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwillisXanax&show_icons=true&theme)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adamwillisXanax)](https://github-profile-trophy.vercel.app/?username=adamwillisXanax)
 
