@@ -41,9 +41,10 @@ feel free drop me a line - who knows, maybe it will be the next Big Thing
 
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
-## current Platea
-the Ornstein-Uhlenbeck model  & up
+## Current Plateau
+the Ornstein-Uhlenbeck model  & above
 (Hilbert space functions, plus other quantum pals )
+what to do: you gotta love it living here -  for a while
 
 # Life's Direction
 
