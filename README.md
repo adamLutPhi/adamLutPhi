@@ -1,50 +1,51 @@
 # Fun Trivia
 
-- Honour Open Source, & program in Julia
+- Honour Open Source, & program in **Julia**
 
-- Vegan & spiritual: looking for stability even in a materialistic world
+- Vegan & spiritual: looking for Stability even in a materialistic world
 
 - Appreciate  Spacing out (&  the Creativity it brings)
 
-- the Syrian who got admitted into the United States. Despite refusal from haters,
+- the _Syrian_ who got admitted into the United States. Despite disrimanatory refusal from haters,
 I've earned it,
 with the Love, Democracy & Justice of the People #x1F1FA;&#x1F1F8;
 
-- Don't watch TV - & not planning to..Never. julia
-Life has enough stored to keep me Spinning
+- Don't watch TV - & not planning to..Never.
+Life has enough _stored_ to keep me Spinning
 
-- Stuck between the Dichotomy of Occam's Razor: the sweetness of Hazelnut Dark Chocolate & the Bittrnesss of a fruity Cold Brew
+- Stuck between the Dichotomy of Occam's Razor: the sweetness of Hazelnut Dark _Chocolate_ & the Bittrnesss of a fruity _Cold Brew_
 
-- Mathemematics, Physics,  Functionals  et al. are a huge Turn On (almost surely)
+- Mathemematics, (statistical) Physics,  Functionals  et al. are a huge _Turn On_ (almost surely)
 
-- Currently coding: Accouting Finance, & Econmics( AI Inclusive) , total capitalist thinking (pedal to the metal)- is yours on the list?
+- Currently coding: _Accouting_ _Finance_, & _Econmics_( _AI_ Inclusive) , total capitalist thinking - watch & enjoy
+But is yours upon the list?
 
-I'm a bit low on Telephathy, so I couldn't tell exactly Tell what 'turns your Rocker'- so what can I do for you today?
+I'm a bit low on **Telephathy**, so I couldn't tell exactly Tell what 'turns your Rocker'?
 
-If there are an ideas you'd like me to try out, experiment & explore [& create]- any sand castels, that needs sophisticated math modelling (Energy, flow , or flux) -
-do you have a model in mind
+If there are an ideas you'd like me to try out, _experiment_ & _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling (Energy, flow , or flux) -
+do you have a _model in mind_
 
-is it just & an r.v. i.i.d
-Gaussian? maybe Paratia?
-Or perhaps Laplacian?
+is it just &  random variable i.i.d
+Gaussian?
+Maybe a  _Paratian_?
+Or perhaps a _Laplacian_?
 even if you're unsure,
+Parametric, _non-parametric Bayesian_
+or a trendy **semi-Parametric** learning model?
 
-Parametric, non-parametric Bayesian
+Do you Happen to be into AI
+are you looking for **Genetic algorithm** ?
+(maybe a **Reinforcement model** is what you aim at)
 
-even trendy semi-Parametric learning models
-
-do you Happen to be into AI
-are you looking for Genetic algorithm ?
-(maybe a reinforcement model is what you aim at)
-
-feel free drop me a line - who knows, maybe it will be the next Big Thing
+Feel free drop me a line - who knows, maybe it will be the **next Big Thing**
 
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
 ## Current Plateau
-the Ornstein-Uhlenbeck model  & above
+the _Ornstein-Uhlenbeck model_  & above
 (Hilbert space functions, plus other quantum pals )
-what to do: you gotta love it living here -  for a while
+
+You gotta love it, living here -  for a while
 
 # Life's Direction
 
@@ -73,7 +74,7 @@ what to do: you gotta love it living here -  for a while
 
 [![quote1](Assets/quote1.png)](Assets/quote1.png)
 
- ## Motivation
+&#x1F31F; ## Motivation
 
 [![quote2](Assets/quote2.png)](Assets/quote2.png)
 
