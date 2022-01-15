@@ -8,7 +8,7 @@
 
 - the _Syrian_ who got admitted into the United States. Despite disrimanatory refusal from haters,
 I've earned it,
-with the Love, Democracy & Justice of the People &#x1F1F8; :jifla
+with the Love, Democracy & Justice of the People  &#x1F1FA;&#x1F1F8;
 
 - Don't watch TV - & not planning to..Never.
 Life has enough _stored_ to keep me Spinning
