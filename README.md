@@ -8,29 +8,26 @@
 
 - the _Syrian_ who got admitted into the United States. Despite disrimanatory refusal from haters,
 I've earned it,
-with the Love, Democracy & Justice of the People #x1F1FA;&#x1F1F8;
+with the Love, Democracy & Justice of the People &#x1F1F8; :jifla
 
 - Don't watch TV - & not planning to..Never.
 Life has enough _stored_ to keep me Spinning
 
 - Stuck between the Dichotomy of Occam's Razor: the sweetness of Hazelnut Dark _Chocolate_ & the Bittrnesss of a fruity _Cold Brew_
 
-- Mathemematics, (statistical) Physics,  Functionals  et al. are a huge _Turn On_ (almost surely)
+- Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
 
 - Currently coding: _Accouting_ _Finance_, & _Econmics_( _AI_ Inclusive) , total capitalist thinking - watch & enjoy
-But is yours upon the list?
+But is yours **upon the list**?
 
-I'm a bit low on **Telephathy**, so I couldn't tell exactly Tell what 'turns your Rocker'?
+I'm a bit low on **Telephathy**, so I couldn't tell exactly Tell what _'Turns your Rocker'_?
 
-If there are an ideas you'd like me to try out, _experiment_ & _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling (Energy, flow , or flux) -
-do you have a _model in mind_
+If there are an ideas you'd like me to try out, _experiment_ & _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling
 
-is it just &  random variable i.i.d
+Is it just & random variable i.i.d
 Gaussian?
-Maybe a  _Paratian_?
 Or perhaps a _Laplacian_?
-even if you're unsure,
-Parametric, _non-parametric Bayesian_
+how about a _Parametric_, _non-parametric Bayesian_
 or a trendy **semi-Parametric** learning model?
 
 Do you Happen to be into AI
@@ -68,13 +65,13 @@ You gotta love it, living here -  for a while
 - Feel at ease with the painful _Disappointement of Failure_
  learning from **Past Mistakes** - adding to the _Experience Database_
 
-- Life is not just about suffering, learn how to go _the way_  around **the Pit of DEATH** _dancing_ your way around it- then Move onto the next Journey
+- Life is not just about suffering, learn how to go _the way_  around **the Pit of DEATH** _dancing_ your way around it- then Move onto the _next Journey_
 
-&#x1F5EF; ### Creativity Mantra†
+### &#x1F5EF; Creativity Mantra†
 
 [![quote1](Assets/quote1.png)](Assets/quote1.png)
 
-&#x1F31F; ## Motivation
+## &#x1F31F; Motivation
 
 [![quote2](Assets/quote2.png)](Assets/quote2.png)
 
