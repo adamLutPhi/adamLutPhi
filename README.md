@@ -2,44 +2,47 @@
 
 - Honour Open Source, & program in **Julia**
 
-- Vegan & spiritual: looking for Stability even in a materialistic world
+- Vegan & Spiritual: looking for _Stability_ even in a materialistic world
 
-- Appreciate  Spacing out (&  the Creativity it brings)
+- Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- the _Syrian_ who got admitted into the United States. Despite disrimanatory refusal from haters,
+- **4 hrs** is all I need to Recharge
+- the _Syrian_ who got admitted into the **United States**. Despite disrimanatory refusal from haters,
 I've earned it,
-with the Love, Democracy & Justice of the People  &#x1F1FA;&#x1F1F8;
+with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8;
 
-- Don't watch TV - & not planning to..Never.
+- **Don't watch TV** - & not planning to..**Never Again**.
 Life has enough _stored_ to keep me Spinning
 
-- Stuck between the Dichotomy of Occam's Razor: the sweetness of Hazelnut Dark _Chocolate_ & the Bittrnesss of a fruity _Cold Brew_
+- Stuck between **the Dichotomy** of _Occam's Razor_: the sweetness of a Hazelnut Dark _Chocolate_ & the Bittrnesss of a fruity _Cold Brew_ (with 2 Double Shots)
 
 - Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
 
 - Currently coding: _Accouting_ _Finance_, & _Econmics_( _AI_ Inclusive) , total capitalist thinking - watch & enjoy
 But is yours **upon the list**?
 
-I'm a bit low on **Telephathy**, so I couldn't tell exactly Tell what _'Turns your Rocker'_?
+## HBU
 
-If there are an ideas you'd like me to try out, _experiment_ & _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling
+I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_?
 
-Is it just & random variable i.i.d
-Gaussian?
+If there are an ideas you'd like me to try out, _experiment_, _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling
+
+you _wanna_ just another **random variable** i.i.d
+_Gaussian_? (with /without 
 Or perhaps a _Laplacian_?
-how about a _Parametric_, _non-parametric Bayesian_
-or a trendy **semi-Parametric** learning model?
+How about a _Parametric_, _non-parametric Bayesian_
+How about a trendy **semi-Parametric** learning model?
 
-Do you Happen to be into AI
-are you looking for **Genetic algorithm** ?
-(maybe a **Reinforcement model** is what you aim at)
+Do you _just_ Happen to be into _AI_
+are you looking for a **Genetic algorithm** ?
+(maybe a **Reinforcement model** is what you aim at), or the greatest thing you could **Dream Off**
 
 Feel free drop me a line - who knows, maybe it will be the **next Big Thing**
 
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
 ## Current Plateau
-the _Ornstein-Uhlenbeck model_  & above
+the **Fractional** _Ornstein-Uhlenbeck model_  & above
 (Hilbert space functions, plus other quantum pals )
 
 You gotta love it, living here -  for a while
