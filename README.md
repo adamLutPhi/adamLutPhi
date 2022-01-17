@@ -6,7 +6,7 @@
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- **4 hrs** is all I need to Recharge
+- **4 hrs** is all I need to Recharge (unless I'm truly sick, or having a spiritual revelation)
 - the _Syrian_ who got admitted into the **United States**. Despite disrimanatory refusal from haters,
 I've earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8;
