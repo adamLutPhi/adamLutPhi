@@ -2,29 +2,28 @@
 
 - Honour **Open Source**
 
-- Vegan & Spiritual - _goodies_ in, _goodies_ out. In a search of _Stability_ even in a materialistic world
+- Vegan & Spiritual, & [High Functioning](https://www.med.or.jp/english/journal/pdf/2012_04/298_302.pdf)   - (_goodies_ in, _goodies_ out). In a search of lost _Stability_ even in a materialistic realm 
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- __Ex-Syrian_, Entered the **United States**, Despite disrimanatory refusal,
+- __Ex-Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory refusal,
 Only earned it,
-with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8;
+with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
-- **4 hrs** (_Siestez, c'est parfait !_) is all I need to Recharge (unless I'm truly sick, or having a Spiritual Revelation)
-- 
-- **TV is old** -  _the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_
+- **4 hrs** is average Recharge time - _Siestez, c'est parfait, alors!_(unless I'm truly sick, or having a Spiritual Revelation)
 
-- Stuck between **the Dichotomy** of the following _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_
+- **TV no more** -  _ah, the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_
+
+- Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_
 
 - Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
 
-- Currently programming: _Accouting_ _Finance_, & _Econmics_( _AI_ empowered), total capitalist thinking, whilec reating a a win-win situations 
-
+- Currently Programming: [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) , [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md), & _Econmics_( _AI_ empowered _soon_,lah),  with capitalist thinking, while creating a a win-win situation; & last,  Learning from a [DeepLearner](https://github.com/adamwillisXanax/DeepLearner)
 ## How About You?
 
-I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_?
+I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
 
-If there are an ideas you'd like me to try out, _experiment_, _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling
+If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels, that needs sophisticated math modelling
 
 you _wanna_ just another **random variable** i.i.d
 _levy process_?  a _Laplacian_
