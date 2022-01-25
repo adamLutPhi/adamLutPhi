@@ -1,25 +1,24 @@
 # Fun Trivia
 
-- Honour Open Source, & program in **Julia**
+- Honour **Open Source**
 
-- Vegan & Spiritual: looking for _Stability_ even in a materialistic world
+- Vegan & Spiritual - _goodies_ in, _goodies_ out. In a search of _Stability_ even in a materialistic world
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- **4 hrs** is all I need to Recharge (unless I'm truly sick, or having a spiritual revelation)
-- the _Syrian_ who got admitted into the **United States**. Despite disrimanatory refusal from haters,
-I've earned it,
+- **4 hrs** (ca va la sieste) is all I need to Recharge (unless I'm truly sick, or having a spiritual Revelation)
+- __Ex-Syrian_, Entered the **United States**, Despite disrimanatory refusal,
+Only earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8;
 
-- **Don't watch TV** - & not planning to..**Never Again**.
-Life has enough _stored_ to keep me Spinning
+- **Don't watch TV** - & not planning to
+(Life has enough _stored_ to keep me Spinning)
 
-- Stuck between **the Dichotomy** of _Occam's Razor_: the Bitterness & Sweetness of a Hazelnut Dark _Chocolate_
+- Stuck between **the Dichotomy** of the following _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_
 
 - Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
 
-- Currently coding: _Accouting_ _Finance_, & _Econmics_( _AI_ Inclusive) , total capitalist thinking - watch & enjoy
-But is yours **upon the list**?
+- Currently programming: _Accouting_ _Finance_, & _Econmics_( _AI_ Inclusive) , total capitalist thinking, with a win-win strategy
 
 ## How About You?
 
@@ -28,12 +27,10 @@ I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Ro
 If there are an ideas you'd like me to try out, _experiment_, _explore_ [& **create**]- any sand castels, that needs sophisticated math modelling
 
 you _wanna_ just another **random variable** i.i.d
-_Gaussian_? (with /without
-Or perhaps a _Laplacian_?
-How about a _Parametric_, _non-parametric Bayesian_
-How about a trendy **semi-Parametric** learning model?
-⃝
-Do you _just_ Happen to be into _AI_
+_levy process_?  a _Laplacian_
+Is it a  _Parametric_, _non-parametric Bayesian_?
+
+Do you _just_ Happen to be into _AI_ (it's just a Stochastic Process Optimization)
 are you looking for a **Genetic algorithm** ?
 (maybe a **Reinforcement model** is what you aim at), or the greatest thing you could **Dream Off**
 
