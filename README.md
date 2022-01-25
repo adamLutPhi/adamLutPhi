@@ -2,7 +2,7 @@
 
 - Honour **Open Source**
 
-- Vegan & Spiritual, & [High Functioning](https://www.med.or.jp/english/journal/pdf/2012_04/298_302.pdf)   - (_goodies_ in, _goodies_ out). In a search of lost _Stability_ even in a materialistic realm 
+- Vegan & Spiritual, & [Highly Functional](https://www.theatlantic.com/health/archive/2015/09/autism-hidden-advantages/406180/) working bee- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
@@ -10,28 +10,29 @@
 Only earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
-- **4 hrs** is average Recharge time - _Siestez, c'est parfait, alors!_(unless I'm truly sick, or having a Spiritual Revelation)
+- **4 hrs** is average Recharge time -_Siestez, c'est parfait, alors!_- unless I'm truly sick, (or having a Spiritual Revelation)
 
-- **TV no more** -  _ah, the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_
+- **TV no more** but appreciate small things-  (_ the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_)
 
 - Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_
 
 - Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
 
-- Currently Programming: [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) , [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md), & _Econmics_( _AI_ empowered _soon_,lah),  with capitalist thinking, while creating a a win-win situation; & last,  Learning from a [DeepLearner](https://github.com/adamwillisXanax/DeepLearner)
+- Currently Programming: [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) , [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md), & _Econmics_( _AI_ empowered **soon**,_lah_),  with a capitalist thinking, creating a a win-win situation; & last,  Learning from a [DeepLearner](https://github.com/adamwillisXanax/DeepLearner)
+- 
 ## How About You?
 
 I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
 
 If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels, that needs sophisticated math modelling
 
-you _wanna_ just another **random variable** i.i.d
+would you like _ just another **random variable**
 _levy process_?  a _Laplacian_
 Is it a  _Parametric_, _non-parametric Bayesian_?
 
-Do you _just_ Happen to be into _AI_ (it's just a Stochastic Process Optimization)
+Do you _just_ Happen to be into _AI_ (**it's just a Stochastic Process Optimization**, hands down)
 are you looking for a **Genetic algorithm** ?
-(maybe a **Reinforcement model** is what you aim at), or the greatest thing you could **Dream Off**
+(or a **Reinforcement model** is what you aim at), or the greatest thing you could **Dream Off**
 
 Feel free drop me a line - who knows, maybe it will be the **next Big Thing**
 
