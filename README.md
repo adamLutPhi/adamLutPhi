@@ -39,7 +39,7 @@ Feel free drop me a line - who knows, maybe it will be the **next Big Thing**
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
 ## Current Plateau
-the **Fractional** _Ornstein-Uhlenbeck model_  & above
+the **Fractional** [_Ornstein-Uhlenbeck model_](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C9&q=Fractional+Ornstein-Uhlenbeck+model&btnG=)  & above
 (Hilbert space functions, plus other quantum pals )
 
 You gotta love it... living here -  for a while
