@@ -6,19 +6,19 @@
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- **4 hrs** (ca va la sieste) is all I need to Recharge (unless I'm truly sick, or having a spiritual Revelation)
 - __Ex-Syrian_, Entered the **United States**, Despite disrimanatory refusal,
 Only earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8;
 
-- **Don't watch TV** - & not planning to
-(Life has enough _stored_ to keep me Spinning)
+- **4 hrs** (_Siestez, c'est parfait !_) is all I need to Recharge (unless I'm truly sick, or having a Spiritual Revelation)
+- 
+- **TV is old** -  _the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_
 
 - Stuck between **the Dichotomy** of the following _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_
 
 - Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
 
-- Currently programming: _Accouting_ _Finance_, & _Econmics_( _AI_ Inclusive) , total capitalist thinking, with a win-win strategy
+- Currently programming: _Accouting_ _Finance_, & _Econmics_( _AI_ empowered), total capitalist thinking, whilec reating a a win-win situations 
 
 ## How About You?
 
