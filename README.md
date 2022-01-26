@@ -67,7 +67,7 @@ You gotta love it... living here -  for a while
 - Feel at ease with the painful _Disappointement of Failure_
  learning from **Past Mistakes** - adding to the _Experience Database_
 
-- Life is not just about suffering, learn how to go _the way_  around **the Pit of DEATH** _dancing_ your way around it- then Move onto the _next Journey_
+- Life is not just about suffering, learn how to go _the way_  around **the Pit of DEATH** _dancing_ your way around it, Moving onto the _next Journey_
 
 ### &#x1F5EF; Creativity Mantra†
 
