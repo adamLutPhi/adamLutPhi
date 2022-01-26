@@ -6,7 +6,7 @@
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- __Ex-Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory refusal,
+- __Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory refusal of the few,
 Only earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
