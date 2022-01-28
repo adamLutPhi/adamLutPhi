@@ -30,9 +30,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: adamwillisXanax
-          git config --global user.name "adamwillisXanax"
-          git config --global user.email "obzajd@gmail.com"
-          git config -l
+
+          git remote set-url origin https://sAakeAble_P0is.n@github.com/adamwillisXanax/adamwillisXanax
+
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
