@@ -35,4 +35,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: P0ison
