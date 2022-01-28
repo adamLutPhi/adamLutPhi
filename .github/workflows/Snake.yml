@@ -44,7 +44,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: $sAakeAble_P0is.n
+          github_token: $SNAKEABLEP0ISON
           branch: master
           force: true
           
@@ -54,4 +54,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: $sAakeAble_P0is.n$
+          GITHUB_TOKEN: $SNAKEABLEP0ISON
