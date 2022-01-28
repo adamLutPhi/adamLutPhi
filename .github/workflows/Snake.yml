@@ -34,15 +34,15 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      #- run: git status
 
       # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: $sAakeAble_P0is.n
-          branch: master
-          force: true
+      #- name: Push changes
+      #  uses: ad-m/github-push-action@master
+      #  with:
+      #    github_token: $sAakeAble_P0is.n
+      #    branch: master
+      #    force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
