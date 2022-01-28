@@ -4,7 +4,6 @@ description: "Generates a snake game from a github user contributions grid. Outp
 author: "platane"
 
 runs:
-on:
 workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
