@@ -29,8 +29,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: adamwillisXanax
-           $ Username for 'https://github.com' : username
-           $ Password for 'https://github.com' : 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
+          Password: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
+          #$ Username for 'https://github.com' : username
+          #$ Password for 'https://github.com' : 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
                 # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
