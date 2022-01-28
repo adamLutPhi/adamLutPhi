@@ -1,4 +1,4 @@
-![adamwillisXanax snake gif](https://github.com/adamwillisXanax/adamwillisXanax/blob/output/github-contribution-grid-snake.svg)
+![adamwillisXanax snake gif](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/github-contribution-grid-snake.svg)
 
 
 # Fun Trivia
