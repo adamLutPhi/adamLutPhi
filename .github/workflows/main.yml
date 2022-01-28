@@ -4,6 +4,11 @@ description: "Generates a snake game from a github user contributions grid. Outp
 author: "platane"
 
 runs:
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 5,17 * * *'
+
   using: "docker"
   image: "docker://platane/snk:latest"
 
