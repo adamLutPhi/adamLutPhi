@@ -29,7 +29,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: adamwillisXanax
-          Password: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
+          
           #$ Username for 'https://github.com' : username
           #$ Password for 'https://github.com' : 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
                 # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
@@ -53,7 +53,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: $sAakeAble_P0is.n
+          GITHUB_TOKEN: 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
           #git remote set-url origin https://sAakeAble_P0is.n@github.com/adamwillisXanax/adamwillisXanax
 
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
@@ -67,7 +67,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: $sAakeAble_P0is.n
+          github_token: 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
           branch: master
           force: true
           
@@ -77,4 +77,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: $sAakeAble_P0is.n
+          GITHUB_TOKEN: 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
