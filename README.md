@@ -1,8 +1,7 @@
-#🐉 Pathei-Mathos
+# 🐉 Pathei-Mathos
+
 the __Right Mindset__, you start with: <br/>
-- the Golden Rule: "know that there is ~~everything~~ something for everyone
-(that , which has most of the value in it- for you at least, you feel it, because you're still reading)
-- that stems from :<br/>
+- the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br/>
 1.1. **Close**: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
 1.2. **Do**: a Minor good (that, whichever you may percieve ) <br/>
 1.3. **Redo**: N.#1.1 _(only it gets better, with time)_ <br/>
@@ -61,11 +60,7 @@ I'm reading a book
 I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
 
 If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels to build? 
-considering the fact that I'm free (I'd be happy to take a look at it) 
-that needs sophisticated math modelling, creating a a win-win situation (for all parties)
-
-what is the greatest thing you could **Dream Off**?
-Feel free drop me a line - who knows, maybe it will be the **next Big Thing**
+considering the fact that I'm free _(I'd be Glad to take a look at it)_ 
 
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
