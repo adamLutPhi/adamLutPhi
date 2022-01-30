@@ -34,7 +34,7 @@ changing between the lanes of life's many crisscrossing paths <br/>
 Only have earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
-- **4 hrs** is average Recharge time (Var= +/- 2 hrs ) -_Siestez, c'est parfait, alors!_- unless I'm truly sick, (even better, having a Spiritual Revelation)
+- **4 hrs** is average Recharge time (+/- 2 hrs variance ) -_Siestez, c'est parfait, alors!_- unless I'm truly sick, (better yet , having a Spiritual Revelation)_
 
 - **TV no more** but appreciate small things-  (_the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_)
 
