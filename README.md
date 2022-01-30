@@ -2,15 +2,15 @@
 the __Right Mindset__, you start with: <br/>
 - the Golden Rule: "know that there is ~~everything~~ something for everyone
 (that , which has most of the value in it- for you at least, you feel it, because you're still reading)
-- that stems from  ~~a right Programming Attitude~~:
-1.1. Close: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
-1.2. Do: a Minor good (that, whichever you may percieve ) <br/>
-1.3. Redo: no.#1 (only it gets better, with time) <br/>
+- that stems from :<br/>
+1.1. **Close**: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
+1.2. **Do**: a Minor good (that, whichever you may percieve ) <br/>
+1.3. **Redo**: no.#1 _(only it gets better, with time)_ <br/>
 - Feel at ease with the Painful _Disappointement of Failure_ (by doing this life algorithm
 (as a programmer, you sure got used to the ERROR Message, I presume )
-2.1. _Learn_: something similar: easy to maintain  `ERROR!` sound familiar? you've lost the current battle (cut your losses short) <br/>
-2.2. _Do_: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br/>
-2.3. _Magic_: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br/>
+2.1. **Learn**: something similar: easy to maintain  `ERROR!` sound familiar? you've lost the current battle (cut your losses short) <br/>
+2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br/>
+2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br/>
 and be in the moment- thats when life becomes fruitful & bareable; (if you're hopped on , don't celebrate, continue the work, till: 
 
 3.1.Enjoy: despite _the simplicity_,of Doing `the Hobby` 
