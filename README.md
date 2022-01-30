@@ -1,4 +1,4 @@
-# Pathei-Mathos
+#🐉 Pathei-Mathos
 the __Right Mindset__, you start with: <br/>
 - the Golden Rule: "know that there is ~~everything~~ something for everyone
 (that , which has most of the value in it- for you at least, you feel it, because you're still reading)
@@ -8,18 +8,22 @@ the __Right Mindset__, you start with: <br/>
 1.3. **Redo**: N.#1.1 _(only it gets better, with time)_ <br/>
 - Feel at ease with the Painful _Disappointement of Failure_ (by doing this life algorithm
 (as a programmer, you sure got used to the ERROR Message, I presume )<br/>
-2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle (cut your losses short) <br/>
+2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle _(cut your losses short)_ <br/>
 2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br/>
 2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br/>
-and be in the moment- thats when life becomes fruitful & bareable; (if you're hopped on , don't celebrate, continue the work, till: <br/>
+and be in the moment- thats when life becomes Fruitful 
 
-3.1.**Enjoy**: despite _the simplicity_,of Doing `the Hobby` <br/>
-3.2.**Flow**: you don't have to Flow, because you'll be already be flowing in it (& with it), 
-changing between lanes of life's many paths. (until `min(bladder_capacity, programming[High], hunger)` - Assuming no phone is on-Board! )<br/>
-3.3.**Recall**: Possibilities ( seemd so interested, that you seemed to forget how to breathe,again(sigh, yawn included) [the pure addition of `_"only getting Exhalted with the (overly) being Excited"_ feeling` is speechless]<br/>
+(if you're hopped on , don't celebrate, continue the work, till: <br/>
+-of course, do not forget to:
+3.1.**Enjoy**: admire _the simplicity_,of Doing `the Hobby` <br/>
+3.2.**Flow**:  by not forcing anything. The other way, you gotta already **be flowing** in it (& with it), 
+changing between the lanes of life's many crisscrossing paths <br/>
+(until `min(bladder_capacity, programming[High], hunger)` - Assuming no phone is on-Board! )<br/>
+3.3.**Recall**: being rooted & _( sounds like you've forgetten how to breathe,again)_
+ [the pure addition of `_"only getting Exhalted from (overly) getting Excited"_ ` is to binge on]<br/>
 <br/>
     
-## Fun Trivia
+## 🎉 Fun Trivia
 
 - Honours **Open Source**
 
@@ -47,7 +51,7 @@ I'm reading a book
 
 
 - Future projects 
-1._Econmics_ ( _AI_ empowered **soon**,_lah_)(**the Hard Truth:It's a Stochastic Process Optimization**)
+1._Econmics_ ( _AI_ empowered **soon**,_lah_)(_the Hard Truth:_**It's a Stochastic Process Optimization**)
 2._**stochastic Processes** (_levy process_, _Laplacian_,..)
 3.**Genetic algorithm** with Reinforcement Learning model
 4.***Mathemematics** (Functionals  et al.)
@@ -57,6 +61,7 @@ I'm reading a book
 I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
 
 If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels to build? 
+considering the fact that I'm free (I'd be happy to take a look at it) 
 that needs sophisticated math modelling, creating a a win-win situation (for all parties)
 
 what is the greatest thing you could **Dream Off**?
