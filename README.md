@@ -26,11 +26,11 @@ changing between the lanes of life's many crisscrossing paths <br/>
 
 - Honours **Open Source**
 
-- Vegan & Spiritual, & [Highly Functional](https://www.theatlantic.com/health/archive/2015/09/autism-hidden-advantages/406180/) working bee- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
+- Vegan & Spiritual, Functional working bee- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- __Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory irritation of the few,
+- _Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory irritation of the few,
 Only have earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
@@ -40,21 +40,18 @@ with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; �
 
 - Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_ (to be frank, how *One day*  the `inner-self` proves helpful, but  becomes disobidient on other ones)
 
-- Math tricks  are a huge **Turn On** :
-I'm reading a book  
-
 - Currently Programming: 
-1.[*DeepLearner*](https://github.com/adamwillisXanax/DeepLearner)
-2.[_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) 
-3.[_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
+1. [*DeepLearner*](https://github.com/adamwillisXanax/DeepLearner)
+2. [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) 
+3. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
 
 - Future projects 
-1._Econmics_ ( _AI_ empowered **soon**,_lah_)(_the Hard Truth:_**It's a Stochastic Process Optimization**)
-2._**stochastic Processes** (_levy process_, _Laplacian_,..)
-3.**Genetic algorithm** with Reinforcement Learning model
-4.***Mathemematics** (Functionals  et al.)
-5._(Statistical) **Physics**_ (Abstract Algebra et al.)
+1. _Econmics_ ( _AI_ empowered **soon**,_lah_)(_the Hard Truth:_**It's a Stochastic Process Optimization**)
+2. _**stochastic Processes** (_levy process_, _Laplacian_,..)
+3. **Genetic algorithm** with Reinforcement Learning model
+4. ***Mathemematics** (Functionals  et al.)
+5. _(Statistical) **Physics**_ (Abstract Algebra et al.)
 ## How About You?
 
 I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
