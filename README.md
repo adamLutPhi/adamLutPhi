@@ -1,50 +1,70 @@
-![adamwillisXanax snake gif](Assets/snake.svg)
+# 🐉 Pathei-Mathos
 
-# Fun Trivia
+the __Right Mindset__, you start with: <br/>
+- the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br/>
+1.1. **Close**: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
+1.2. **Do**: a Minor good (that, whichever you may percieve ) <br/>
+1.3. **Redo**: N.#1.1 _(only it gets better, with time)_ <br/>
+- Feel at ease with the Painful _Disappointement of Failure_ (by doing this life algorithm
+(as a programmer, you sure got used to the ERROR Message, I presume )<br/>
+2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle _(cut your losses short)_ <br/>
+2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br/>
+2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br/>
+and be in the moment- thats when life becomes Fruitful 
 
-- Honour **Open Source**
+(if you're hopped on , don't celebrate, continue the work, till: <br/>
+-of course, do not forget to:
+3.1.**Enjoy**: admire _the simplicity_,of Doing `the Hobby` <br/>
+3.2.**Flow**:  by not forcing anything. The other way, you gotta already **be flowing** in it (& with it), 
+changing between the lanes of life's many crisscrossing paths <br/>
+(until `min(bladder_capacity, programming[High], hunger)` - Assuming no phone is on-Board! )<br/>
+3.3.**Recall**: being rooted & _( sounds like you've forgetten how to breathe,again)_
+ [the pure addition of `_"only getting Exhalted from (overly) getting Excited"_ ` is to binge on]<br/>
+<br/>
+    
+## 🎉 Fun Trivia
 
-- Vegan & Spiritual, & [Highly Functional](https://www.theatlantic.com/health/archive/2015/09/autism-hidden-advantages/406180/) working bee- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
+- Honours **Open Source**
+
+- Vegan & Spiritual, Functional working bee- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
 
 - Appreciate _Spacing Out_ (&  the Creativity it brings)
 
-- __Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory refusal of the few,
-Only earned it,
+- _Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory irritation of the few,
+Only have earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
-- **4 hrs** is average Recharge time -_Siestez, c'est parfait, alors!_- unless I'm truly sick, (or having a Spiritual Revelation)
+- **4 hrs** is average Recharge time (+/- 2 hrs variance ) -_Siestez, c'est parfait, alors!_- unless I'm truly sick, (better yet , having a Spiritual Revelation)_
 
-- **TV no more** but appreciate small things-  (_ the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_)
+- **TV no more** but appreciate small things-  (_the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_)
 
-- Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_
+- Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_ (to be frank, how *One day*  the `inner-self` proves helpful, but  becomes disobidient on other ones)
 
-- Mathemematics, (statistical) Physics,  Functionals  et al. are a huge **Turn On** (almost surely)
+- Currently Programming: 
+1. [*DeepLearner*](https://github.com/adamwillisXanax/DeepLearner)
+2. [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) 
+3. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
-- Currently Programming: [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) , [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md), & _Econmics_( _AI_ empowered **soon**,_lah_),  with a capitalist thinking, creating a a win-win situation; & last,  Learning from a [DeepLearner](https://github.com/adamwillisXanax/DeepLearner)
-- 
+
+- Future projects 
+1. _Econmics_ ( _AI_ empowered **soon**,_lah_)(_the Hard Truth:_**It's a Stochastic Process Optimization**)
+2. _**stochastic Processes** (_levy process_, _Laplacian_,..)
+3. **Genetic algorithm** with Reinforcement Learning model
+4. ***Mathemematics** (Functionals  et al.)
+5. _(Statistical) **Physics**_ (Abstract Algebra et al.)
 ## How About You?
 
 I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
 
-If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels, that needs sophisticated math modelling
-
-would you like _ just another **random variable**
-_levy process_?  a _Laplacian_
-Is it a  _Parametric_, _non-parametric Bayesian_?
-
-Do you _just_ Happen to be into _AI_ (**it's just a Stochastic Process Optimization**, hands down)
-are you looking for a **Genetic algorithm** ?
-(or a **Reinforcement model** is what you aim at), or the greatest thing you could **Dream Off**
-
-Feel free drop me a line - who knows, maybe it will be the **next Big Thing**
+If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels to build? 
+considering the fact that I'm free _(I'd be Glad to take a look at it)_ 
 
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
 ## Current Plateau
 the **Fractional** [_Ornstein-Uhlenbeck model_](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C9&q=Fractional+Ornstein-Uhlenbeck+model&btnG=)  & above
-(Hilbert space functions, plus other quantum pals )
-
-You gotta love it... living here -  for a while
+-**Hilbert space** functions, & other Quantum pals 
+_(You gotta love it- living here,  for a while...)_
 
 # Life's Direction
 
@@ -58,18 +78,6 @@ You gotta love it... living here -  for a while
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwillisXanax&hide=kotlin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwillisXanax&hide=kotlin&layout=compact)
-
-
-## Pathei-Mathos
-
-- the Golden Rule: "know that there is everything for everyone
-
-- It all starts with the __Right Mindset__, that stems from  a right Programming Attitude
-
-- Feel at ease with the painful _Disappointement of Failure_
- learning from **Past Mistakes** - adding to the _Experience Database_
-
-- Life is not just about suffering, learn how to go _the way_  around **the Pit of DEATH** _dancing_ your way around it, Moving onto the _next Journey_
 
 ### &#x1F5EF; Creativity Mantra†
 
