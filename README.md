@@ -24,12 +24,12 @@ and be in the moment- thats when life becomes Fruitful
 3.1.**Enjoy**: admire _the simplicity_,of repeating`the Hobby` *(any nuance?)*<br />
 
 3.2.**Flow**:  forcing not any  Computation. but, notice that you Are **Already Flowing** in it (& with it), 
-changing between the lanes of life's many criss-crossing paths,refactoring & meet up once again 😃 <br />
+changing amongt life's  fluctuating criss-crossing paths, refactoring, & meeting up once again 😃 <br />
 
 (*until* `<min(Bladder_capacity, programming[High] , Hunger >` - Assuming *no phone is on-Board!* )<br /> <br />
 
-3.3.**Remember**: being rooted & _( sounds like you've forgetten how to breathe,again)_
- [ah *the pure addiction* of *only getting Exalted from (overly) getting Excited* is to binge on]<br/>
+3.3.**Remember**: being rooted, & close to earth, *(you're busy, you've forgetten how to breathe, once again)*
+ (*only getting Exalted from (overly) getting Excited*, that is a pure butter-nut addiction to binge on)<br/>
 
 <br/>
   
@@ -44,25 +44,25 @@ I can be reached via
   
 ## 🎉 Fun Trivia
 
-- Honour **Open Source**, Searching for _self-sufficiency_
+- Honour **Open Source**, Searching for _self-sufficiency_casue half truths won't stisfy my thist to learn more 
 (in code & life)
 
-- been told `I rebuild the wheel` many times. I only want to rekindle the spark of fire in me (& for *You*)
+-  a person told me `I alwawys rebuild the wheel` many times  to rekindle the spark of fire in me (& for *You*)
 
 - Vegan & Spiritual, [Functional working bee]()- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
 
 - Adore _Spacing Out_ (&  the Creativity it brings:
 love how earth Smells in _the dusk_, slightly before it rains. Don't mind stepping into it. drifting in cozy warmness, while listening its teardrops, trickiling through the windowpane. But,when two drops meet, that must be an `enticing Camelot` of the day 😊
 
-- _Syrian_, Burned my Vessesls, & Entered the **United States**, Despite disrimanatory irritation of the few,
+- _Syrian_, Burned my Vessesls, & Entered the **United States**, Despite disrimanatory hurdles of the few,
 Only have earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
 - **4 hrs** is average Recharge time (+/- 2 hrs variance ) -_Siestez, c'est parfait, alors!_- unless I'm truly sick, (better yet , having a Spiritual Revelation)_
 
-- **TV no more** but appreciate small things-  (_the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_)
+- **TV is not a joker**, appreciate small things-  (_the smell of the earth, while the teardrops trickling on a windowpane is a pure Camelot_)
 
-- Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_ (to be frank, how *One day*  the `inner-self` proves helpful, but  becomes disobidient on other ones)
+- Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_ (to be frank, how *One day* the `inner-self` is helpful but stays swinging to the other pole, like a pendulum)
 
 - Currently Programming: 
 1. [*DeepLearner*](https://github.com/adamwillisXanax/DeepLearner)
@@ -72,9 +72,9 @@ with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; �
 
 - Future projects 
 1. _Econmics_ ( _AI_ empowered **soon**,_lah_)(_the Hard Truth:_**It's a Stochastic Process Optimization**)
-2. _**stochastic Processes** (_levy process_, _Laplacian_,..)
-3. **Genetic algorithm** with Reinforcement Learning model
-4. ***Mathemematics** (Functionals  et al.)
+2. _**stochastic Processes** (all made out of the fabric of same ol' Uniformity
+3. **Genetic algorithm**, reproduction, &  Reinforcement Learning model
+4. ***Mathemematics** (gaming theory, until far in the pits of abstraction)
 5. _(Statistical) **Physics**_ (Abstract Algebra et al.)
 ## Current Plateau
 the **Fractional** [_Ornstein-Uhlenbeck model_](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C9&q=Fractional+Ornstein-Uhlenbeck+model&btnG=)  & above
