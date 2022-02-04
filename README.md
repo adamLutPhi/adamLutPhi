@@ -5,30 +5,30 @@ the __Right Mindset__, you start with: <br />
 
 *1.1. **Close*** an `open-loop`  that is nagging One loop at a time- promise? <br/>
 
-*1.2. **Do*** a Minor good (whichever you may percieve ) <br/>
+_*1.2. **Do***_ a Minor good (whichever you may percieve ) <br/>
 
-_1.3. **Rewind**_ _#1.1_ _(it gets only better, with time)_ <br/>
+_1.3. **Rewind**_ repetition of _#1.1_ _(as it gets only better, with time)_ <br/>
 
-Feel at ease from the steepness of Failure_, as there's still time to:
+Feel at ease, from the steepness of Failures_, as there's still time to:
 
-_2.1. **Learn**_ something similar, easier to maintain  *( `ERROR!` sounds *familiar?*) worst thing, you'd be losing the current battle _(cut your losses short)_ <br />
+_2.1. **Learn**_ something similar, easier to maintain  *( `ERROR!`you know it sounds *familiar*);worst thing, wouldd be losing nothing but the Battle _(cut your losses short)_ <br />
 
-_2.2. **Do**_ the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br />
+_2.2. **Do**_ the work, daily , & care less about any outcomes; Maybe you are living in a goal-less life. you stop one thing, 7 start another, even excitness of a baby! so how much should you care, about any result in life? <br />
 
-2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br />
-and be in the moment- thats when life becomes Fruitful 
+_2.3. **Magic**_ ah, that moment, when the magic comes- invites you  enter into the `Zone` <br />
+and be in it, you feel so carried away, you lose track of time- that's when track of time is lost normal  dub as _n that moment- when life starts to become a solid murmur &  becomes Fruitful 
 
-(if you're hopped on , don't celebrate, continue the work, till: <br />
+(if you're hopped on , don't celebrate,yet,but continue the work, till: <br />
 -of course, do not forget to:<br />
 
-3.1.**Enjoy**: admire _the simplicity_,of repeating`the Hobby` *(any nuance?)*<br />
+_3.1.**Enjoy**_ admire _the simplicity_,of repeating`the Hobby` *(any nuance?)*<br />
 
-3.2.**Flow**:  forcing not any  Computation. but, notice that you Are **Already Flowing** in it (& with it), 
-changing amongt life's  fluctuating criss-crossing paths, refactoring, & meeting up once again 😃 <br />
+_3.2.**Flow**_  forcing not any  Computations. but, notice that you Are **Already Flowing** in it (& with it), 
+changing amongst life's  fluctuating criss-crossing paths maybe like any refactoring, & meeting up once again 😃 <br />
 
 (*until* `<min(Bladder_capacity, programming[High] , Hunger >` - Assuming *no phone is on-Board!* )<br /> <br />
 
-3.3.**Remember**: being rooted, & close to earth, *(you're busy, you've forgetten how to breathe, once again)*
+_3.3.**Remember**_ being rooted, & close to earth, *(you're busy, you've forgetten how to breathe, once again)*
  (*only getting Exalted from (overly) getting Excited*, that is a pure butter-nut addiction to binge on)<br/>
 
 It is safe to say that there is a `Sisyphus` in all of us- whether if we're fierce like a Roman, or slow like a Turtle, really, it doesn't matter, you know 
@@ -83,7 +83,9 @@ with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; �
 
 - Stuck between **the Dichotomy** of this _Occam's Razor_: Sweetness of a _Coconut_, & the Bitterness of _Dark Chocolate_ (to be frank, I Wonder how *One day* the `inner-self` is helpful but stays swinging to the other pole, like a pendulum)
 
-- **The Silver-Screen is an outdated**, small things, is what I do, like the moistiness of `Tarte Tatin`, or zestiness of  `Mee Goreng`. reciting the rights of man, how he should act, ME`François Quesnay`, or coding while hearing the generous crumbs of `les Gymnopédies`; Once again, trying to be perfected, this time, from gentle fabric of fancy clouds of Purity, provided by `Erik Satie`. What you know, maybe life is Topsy Turvy, like a Floating Dream.. so real like the codex of `À la recherche du temps Perdu`.  I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make me remmber, what it feels like, & Means, to be a Human, Once Again
+- **The Silver-Screen is an outdated**
+
+Small things, is what I do, like the trying moistiness of `Tarte Tatin`, or zestiness of  `Mee Goreng`. reciting the rights of a Man. M.`François Quesnay`, thank you for showing how to act, or coding while hearing the generous crumbs of `les Gymnopédies`; Once again, trying to be perfected, this time, from gentle fabric of fancy clouds of Purity, provided by `Erik Satie`. What you know, maybe life is Topsy Turvy, like a Floating Dream.. so real like the codex of `À la recherche du temps Perdu`.  I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make me remember, what it feels like, & Means, to be a Human.. Once Again
 
 # Life's Direction
 
