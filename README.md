@@ -3,17 +3,17 @@
 the __Right Mindset__, you start with: <br />
 - the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
 
-1.1. **Close**: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
+*1.1. **Close*** an `open-loop`  that is nagging One loop at a time- promise? <br/>
 
-1.2. **Do**: a Minor good (that, whichever you may percieve ) <br/>
+*1.2. **Do*** a Minor good (whichever you may percieve ) <br/>
 
-1.3. **Redo**: N.#1.1 _(only it gets better, with time)_ <br/>
+_1.3. **Rewind**_ _#1.1_ _(it gets only better, with time)_ <br/>
 
-- Feel at ease with the Painful _Disappointement of Failure_ by doing:
+Feel at ease from the steepness of Failure_, as there's still time to:
 
-2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle _(cut your losses short)_ <br />
+_2.1. **Learn**_ something similar, easier to maintain  *( `ERROR!` sounds *familiar?*) worst thing, you'd be losing the current battle _(cut your losses short)_ <br />
 
-2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br />
+_2.2. **Do**_ the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br />
 
 2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br />
 and be in the moment- thats when life becomes Fruitful 
@@ -21,27 +21,40 @@ and be in the moment- thats when life becomes Fruitful
 (if you're hopped on , don't celebrate, continue the work, till: <br />
 -of course, do not forget to:<br />
 
-3.1.**Enjoy**: admire _the simplicity_,of Doing `the Hobby` <br />
+3.1.**Enjoy**: admire _the simplicity_,of repeating`the Hobby` *(any nuance?)*<br />
 
-3.2.**Flow**:  by not forcing anything. The other way, you gotta already **be flowing** in it (& with it), 
-changing between the lanes of life's many crisscrossing paths <br />
+3.2.**Flow**:  forcing not any  Computation. but, notice that you Are **Already Flowing** in it (& with it), 
+changing between the lanes of life's many criss-crossing paths,refactoring & meet up once again 😃 <br />
 
-(until `min(bladder_capacity, programming[High], hunger)` - Assuming *no phone is on-Board!* )<br /> <br />
+(*until* `<min(Bladder_capacity, programming[High] , Hunger >` - Assuming *no phone is on-Board!* )<br /> <br />
 
 3.3.**Remember**: being rooted & _( sounds like you've forgetten how to breathe,again)_
  [ah *the pure addiction* of *only getting Exalted from (overly) getting Excited* is to binge on]<br/>
 
 <br/>
-    
+  
+## How About You?
+
+I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
+
+I can be reached via
+
+[![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
+
+  
 ## 🎉 Fun Trivia
 
-- Honours **Open Source**
+- Honour **Open Source**, Searching for _self-sufficiency_
+(in code & life)
 
-- Vegan & Spiritual, Functional working bee- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
+- been told `I rebuild the wheel` many times. I only want to rekindle the spark of fire in me (& for *You*)
 
-- Appreciate _Spacing Out_ (&  the Creativity it brings)
+- Vegan & Spiritual, [Functional working bee]()- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a materialistic realm) 
 
-- _Syrian_, burned my vessesls, & Entered the **United States**, Despite disrimanatory irritation of the few,
+- Adore _Spacing Out_ (&  the Creativity it brings:
+love how earth Smells in _the dusk_, slightly before it rains. Don't mind stepping into it. drifting in cozy warmness, while listening its teardrops, trickiling through the windowpane. But,when two drops meet, that must be an `enticing Camelot` of the day 😊
+
+- _Syrian_, Burned my Vessesls, & Entered the **United States**, Despite disrimanatory irritation of the few,
 Only have earned it,
 with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; 🤠 🇺🇸
 
@@ -63,14 +76,6 @@ with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; �
 3. **Genetic algorithm** with Reinforcement Learning model
 4. ***Mathemematics** (Functionals  et al.)
 5. _(Statistical) **Physics**_ (Abstract Algebra et al.)
-## How About You?
-
-I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
-
-I can be reached via
-
-[![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
-
 ## Current Plateau
 the **Fractional** [_Ornstein-Uhlenbeck model_](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C9&q=Fractional+Ornstein-Uhlenbeck+model&btnG=)  & above
 -**Hilbert space** functions, & other Quantum pals 
