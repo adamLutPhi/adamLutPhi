@@ -1,25 +1,30 @@
 # 🐉 Pathei-Mathos
 
-the __Right Mindset__, you start with: <br/>
-- the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br/>
+the __Right Mindset__, you start with: <br />
+- the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
 1.1. **Close**: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
 1.2. **Do**: a Minor good (that, whichever you may percieve ) <br/>
 1.3. **Redo**: N.#1.1 _(only it gets better, with time)_ <br/>
 - Feel at ease with the Painful _Disappointement of Failure_ (by doing this life algorithm
-(as a programmer, you sure got used to the ERROR Message, I presume )<br/>
-2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle _(cut your losses short)_ <br/>
-2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br/>
-2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br/>
+(as a programmer, you sure got used to the ERROR Message, I presume )<br />
+2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle _(cut your losses short)_ <br />
+2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br />
+2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br />
 and be in the moment- thats when life becomes Fruitful 
 
-(if you're hopped on , don't celebrate, continue the work, till: <br/>
--of course, do not forget to:
-3.1.**Enjoy**: admire _the simplicity_,of Doing `the Hobby` <br/>
+(if you're hopped on , don't celebrate, continue the work, till: <br />
+-of course, do not forget to:<br />
+
+3.1.**Enjoy**: admire _the simplicity_,of Doing `the Hobby` <br />
+
 3.2.**Flow**:  by not forcing anything. The other way, you gotta already **be flowing** in it (& with it), 
-changing between the lanes of life's many crisscrossing paths <br/>
-(until `min(bladder_capacity, programming[High], hunger)` - Assuming no phone is on-Board! )<br/>
+changing between the lanes of life's many crisscrossing paths <br />
+
+(until `min(bladder_capacity, programming[High], hunger)` - Assuming *no phone is on-Board!* )<br /> <br />
+
 3.3.**Recall**: being rooted & _( sounds like you've forgetten how to breathe,again)_
  [the pure addition of `_"only getting Exhalted from (overly) getting Excited"_ ` is to binge on]<br/>
+
 <br/>
     
 ## 🎉 Fun Trivia
@@ -56,8 +61,7 @@ with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; �
 
 I'm a bit low on **Telephathy**, so I couldn't exactly Tell what _'Turns your Rocker'_? 😄
 
-If there are an ideas you'd like me to try out, _experiment_, _explore_,& [**create**]- any sand castels to build? 
-considering the fact that I'm free _(I'd be Glad to take a look at it)_ 
+I can be reached via
 
 [![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
