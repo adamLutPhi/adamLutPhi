@@ -2,13 +2,19 @@
 
 the __Right Mindset__, you start with: <br />
 - the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
+
 1.1. **Close**: an `open-loop`: that exiting process, One loop at a time, promise?) <br/>
+
 1.2. **Do**: a Minor good (that, whichever you may percieve ) <br/>
+
 1.3. **Redo**: N.#1.1 _(only it gets better, with time)_ <br/>
-- Feel at ease with the Painful _Disappointement of Failure_ (by doing this life algorithm
-(as a programmer, you sure got used to the ERROR Message, I presume )<br />
+
+- Feel at ease with the Painful _Disappointement of Failure_ by doing:
+
 2.1. **Learn**: something similar: easy to maintain  (does`ERROR!` sound familiar?) worst case, youd be losing the current battle _(cut your losses short)_ <br />
+
 2.2. **Do**: the work, daily , & care less about any outcomes - remember, you are living in a goal-less life <br />
+
 2.3. **Magic**: ah, that moment, when the magic comes- invites you  enter into the `Zone` <br />
 and be in the moment- thats when life becomes Fruitful 
 
@@ -22,8 +28,8 @@ changing between the lanes of life's many crisscrossing paths <br />
 
 (until `min(bladder_capacity, programming[High], hunger)` - Assuming *no phone is on-Board!* )<br /> <br />
 
-3.3.**Recall**: being rooted & _( sounds like you've forgetten how to breathe,again)_
- [the pure addition of `_"only getting Exhalted from (overly) getting Excited"_ ` is to binge on]<br/>
+3.3.**Remember**: being rooted & _( sounds like you've forgetten how to breathe,again)_
+ [ah *the pure addiction* of *only getting Exalted from (overly) getting Excited* is to binge on]<br/>
 
 <br/>
     
