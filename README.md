@@ -1,5 +1,7 @@
 # 🐉 Pathei-Mathos
 
+<figure><embed src="https://wakatime.com/share/@adamwillisXanax/f189062b-9af5-448c-8f22-de8563043600.svg"></embed></figure>
+
 the __Right Mindset__, you start with: <br />
 - the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
 
