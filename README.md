@@ -2,8 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/e5f8f2ad-46c8-449c-9ccb-a1f10dfae801.svg)](https://wakatime.com/@e5f8f2ad-46c8-449c-9ccb-a1f10dfae801)
 
-Before we could be *Computer Scientists*, we were Writers,
- yet before that, we must had been **_pure Philosophers_"**
+_" Before_ we could be *Computer Scientists*, we were Writers,
+ yet before that, we must had been **_pure Philosophers "_**
 <br />
 - the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
 

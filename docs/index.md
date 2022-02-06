@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e5f8f2ad-46c8-449c-9ccb-a1f10dfae801.svg)](https://wakatime.com/@e5f8f2ad-46c8-449c-9ccb-a1f10dfae801)
 
-Before we could be *Computer Scientists*, we were Writers,
+_"Before_ we could be *Computer Scientists*, we were Writers,
  yet before that, we must had been **_pure Philosophers_"**
 <br />
 - the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
@@ -96,7 +96,7 @@ I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make m
 
 # Life's Direction
 
-[![newJuliaOrder](Assets/newJuliaOrder.png)](Assets/newJuliaOrder.png)
+[![newJuliaOrder](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/newJuliaOrder.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/newJuliaOrder.png)
 
 ## Overview
 ![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwillisXanax&show_icons=true&theme)
@@ -109,15 +109,15 @@ I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make m
 
 ### &#x1F5EF; Creativity Mantra
 
-[![quote1](Assets/quote1.png)](Assets/quote1.png)
+[![quote1](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote1.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote1.png)
 
 ## &#x1F31F; Motivation
 
-[![quote2](Assets/quote2.png)](Assets/quote2.png)
+[![quote2](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote2.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote2.png)
 
-[![quote3](Assets/quote3.png)](Assets/quote3.png)
+[![quote3](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote3.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote3.png)
 
 ## Author
 
-[![Logo](Assets/logo.png)
+[![Logo](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/logo.png)
 ](https://github.com/adamwillisXanax/adamwillisXanax)
