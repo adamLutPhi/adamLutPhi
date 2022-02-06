@@ -109,15 +109,15 @@ I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make m
 
 ### &#x1F5EF; Creativity Mantra
 
-[![quote1](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote1.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote1.png)
+![quote1](https://user-images.githubusercontent.com/20923018/152686141-3ef5ff85-2f81-4fb5-abee-6d91234aebae.png)
 
 ## &#x1F31F; Motivation
 
-[![quote2](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote2.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote2.png)
+![quote2](https://user-images.githubusercontent.com/20923018/152686128-e249c541-3532-4a53-89d1-f46d24047b7d.png)
 
-[![quote3](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote3.png)](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/quote3.png)
+![quote3](https://user-images.githubusercontent.com/20923018/152686102-994200f2-191e-40cd-87b5-b554381a99b7.png)
 
 ## Author
 
-[![Logo](https://github.com/adamwillisXanax/adamwillisXanax/blob/main/Assets/logo.png)
-](https://github.com/adamwillisXanax/adamwillisXanax)
+[![logo](https://user-images.githubusercontent.com/20923018/152686065-ee7cb480-193e-4d8d-acb7-be82627eb273.png)](https://github.com/adamwillisXanax/adamwillisXanax)
+
