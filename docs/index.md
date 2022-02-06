@@ -9,7 +9,7 @@ Before we could be *Computer Scientists*, we were Writers,
 
 *1.1. **Close*** an `open-loop`  that is nagging, One loop at a time- promise? <br/>
 
-_*1.2. **Do***_ a Minor good (whichever you may percieve ) <br/>
+_1.2. **Do**_ a Minor good (whichever you may percieve ) <br/>
 
 _1.3. **Rewind**_ repetition of _#1.1._ _(it only gets better, with time)_ <br/>
 
