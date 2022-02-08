@@ -2,8 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/e5f8f2ad-46c8-449c-9ccb-a1f10dfae801.svg)](https://wakatime.com/@e5f8f2ad-46c8-449c-9ccb-a1f10dfae801)
 
-_" Before_ we could be *Computer Scientists*, we were Writers,
- yet before that, we must had been **_pure Philosophers "_**
+_"Before_ we could be *Computer Scientists*, we were Writers,
+ yet before that, we must had been **_pure Philosophers_"**
 <br />
 - the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
 
@@ -35,7 +35,7 @@ changing amongst life's  fluctuating criss-crossing paths, maybe like any `refac
 _3.3.**Remember**_ being rooted, & down to earth, *(or you're so busy, you've forgetten how to breathe, once again?)*
  (*only getting Exalted from (overly) getting Excited*, that is a pure Butter-nut addiction to binge on)<br/>
 
-It is safe to say that there is a `Sisyphus` in all of us- whether if we're **fierce** like a Roman, or slow like a Turtle _( it doesn't matter much)_
+It is safe to say that there is a `Sisyphus` in all of us- whether we're **fierce** like a Roman, or slow like a Turtle _( it doesn't matter much)_
 <br/>
 
   
@@ -43,23 +43,21 @@ It is safe to say that there is a `Sisyphus` in all of us- whether if we're **fi
 
 I'm a bit low on **Telephathy**, so I couldn't tell what _'Turns your Rocker'_? 😄
 
-I can be reached via
-
-[![obzajd@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obzajd@gmail.com)
 
 
-- Currently Programming: 
+## programming 
+### Currently Programming 
 1. [*DeepLearner*](https://github.com/adamwillisXanax/DeepLearner)
 2. [_Accouting_](https://github.com/adamwillisXanax/Thee-accountant) 
 3. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
 
-- Future projects 
-1. _Econmics_ ( _AI_ empowered **soon**,_lah_)(_funny thing no one talks about that:_**It's a Stochastic Process Optimization**)
-2. _**stochastic Processes** (all made out of the fabric of same ol' *Uniformity* 
-3. **Genetic algorithm**, reproduction, &  Reinforcement Learning model
-4. ***Mathemematics** (gaming theory, until deep far in the pits of Abstraction)
-5. _(Statistical) **Physics**_ (Abstract Algebra et al.)
+### Future projects 
+1. _Econmics_ ( _AI_ empowered **soon**,_lah)(_funny thing no one talks about that:_**It's a Stochastic Process Optimization**)
+2. _**stochastic Processes** _(out of the fabric of same ol' *Uniformity* )_
+3. **Genetic algorithm**  _(Reinforcement Learning model,replication)_
+4. ***Mathemematics** _(Applied optimization until deep far in the pits of Abstraction -Real Analysis)_
+5. _(Statistical) **Physics** _(Abstract Algebra et al.)_
 
 ## Current Plateau
 the **Fractional** [_Ornstein-Uhlenbeck model_](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C9&q=Fractional+Ornstein-Uhlenbeck+model&btnG=)
@@ -70,12 +68,12 @@ _(You gotta love it- living here,  for a while...)_
 
 - Honour **Open Source**, Searching for `self-sufficiency` in code, completing the missing picture of mosaic wonder- as half truths won't satisfy the nagging Thirst to learn _(in code & life)_
 
--  been told  I'm always `rebuilding the wheel`! I am doing so that the `Spark of fire` in me can be rekindled, then, It could be transferred to *You*
+-  been told  I'm always `rebuilding the wheel`! I am doing  sa that  `the Spark of fire` in me can be rekindled, hence, It could be transferred to *You*
 
 - Vegan & Spiritual, [Functional working bee](https://www.cambridge.org/core/journals/psychiatric-bulletin/article/the-genesis-of-artistic-creativity-aspergers-syndrome-and-the-arts-michael-fitzgerald-jessica-kingsley-2005-1395-pb-256-pp-isbn-1-84310-334-6/E7E34A4440E1D96A2D8B696669694BB6)- (_goodies_ in, _goodies_ out). In a search of a lost _Stability_ (even in a Materialistic realm) 
 
-- Adore _Spacing Out_ (&  the Creativity it brings:
-love how the earth Smells in _the dusk_, slightly before it rains _( Don't mind stepping into it)._<br /> Or drifting into some cozy warmness, while listening to its teardrops, **trickiling down**  fast through the _windowpane_, But,when two drops meet, that must be an `enticing Camelot` of the day 😊
+-  _Spacing Out_ ( the Creativity it brings:
+How the earth Smells at   _dusk_, slightly before it rains _( Don't mind stepping into it)._<br /> drifting into cozy warmness,  listening to its teardrops, **trickiling down**  fast through the _windowpane_, But,when two drops meet, that must be an `enticing Camelot` of the day 😊
 
 - _Syrian_, Burned my Vessesls, & Entered the **United States**, Despite disrimanatory hurdles of the few,
 Only have earned it,
@@ -93,7 +91,6 @@ or coding while listening to the generous crumbs & tones  of `les Gymnopédies` 
 What you know, maybe life is `Topsy Turvy`, like a Floating Dream.. so real like the codex of `À la Recherche du temps Perdu`
 
 I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make me remember, what it feels like, & means, to be a Human.. Once Again
-
 # Life's Direction
 
 [![newJuliaOrder](Assets/newJuliaOrder.png)](Assets/newJuliaOrder.png)
