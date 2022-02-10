@@ -87,7 +87,7 @@ with the _Love_, _Democracy_ & _Justice_ of the **People**  &#x1F1FA;&#x1F1F8; �
 
 Small things, is what I do, like trying the sweet moistiness of `Tarte Tatin`, or the zestiness of  `Mee Goreng`
 Reciting the rights of Man with M.`François Quesnay` _(thanks for showing me how to act)_
-or coding while listening to the generous crumbs & tones  of `les Gymnopédies` piano; Once again, swirling around, trying to be perfected, this time, from gentle fabric of fancy clouds of Purity- fabricated by the only `Erik Satie`
+or coding while listening to the generous crumbs & tones  of `les Gymnopédies` [piano](https://youtu.be/4LYRufaWpbk?t=152); Once again, swirling around, trying to be perfected, this time, from gentle fabric of fancy clouds of Purity- fabricated by the only `Erik Satie`
 What you know, maybe life is `Topsy Turvy`, like a Floating Dream.. so real like the codex of `À la Recherche du temps Perdu`
 
 I don't wanna lose you, M. `Marcel Proust`, because your words has yet to make me remember, what it feels like, & means, to be a Human.. Once Again
