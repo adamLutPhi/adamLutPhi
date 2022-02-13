@@ -5,7 +5,7 @@
 _"Before_ we could be *Computer Scientists*, we were Writers,
  yet before that, we must had been **_pure Philosophers_"**
 <br />
-- the Golden Rule: "know that there is ~~everything~~ `something` for everyone, which stems from :<br />
+- the Golden Rule: "know that there is `something` for everyone, which stems from :<br />
 
 *1.1. **Close*** an `open-loop`  that is nagging, One loop at a time- promise? <br/>
 
@@ -13,7 +13,7 @@ _1.2. **Do**_ a Minor good (whichever you may percieve ) <br/>
 
 _1.3. **Rewind**_ repetition of _#1.1._ _(it only gets better, with time)_ <br/>
 
-Feel at ease, from the steep path of Failures_, as there is still time to:
+Feel at ease, from the steep path of _Failures_, as there is still time to:
 
 _2.1. **Learn**_ something similar, easier to maintain  *( `ERROR!`you know it sounds *familiar*);worst thing, wouldd be losing nothing but the Battle _(cut your losses short)_ <br />
 
@@ -21,9 +21,9 @@ _2.2. **Do**_ the *work, daily on `Perfecting your Craft` , & care less about an
 yet we meet a fresh one, with the  excitness of a newborn! _(so how much should you care, about ge any result in life)_? <br />
 
 _2.3. **Magic**_ *ah..* that moment, when the magic comes- you don't realize it, before it invites you into the `Zone` <br />
-Once inside, the `track of time gets _loose_-;  start feeling carried away, _(like riding sea waves)_
+Once inside, the `track of time gets _loose_,  feeling carried away, _(like riding sea waves)_
 
-celebration is yet to come, please continue the work, till: _(of course, don't forget to):_<br />
+Celebration is yet to come, please continue the work, till: _(of course, don't forget to):_<br />
 
 _3.1.**Enjoy**_ admire _the simplicity_,of repeating`the Hobby` *(any nuance?)*
 <br />
