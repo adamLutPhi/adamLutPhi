@@ -3,6 +3,7 @@
 name: CI
 
 # Controls when the workflow will run
+
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
@@ -19,43 +20,18 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    name: Juila Setup
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      #- uses: actions/checkout@v2
-      - uses: julia-actions/setup-julia@v1
-  with:
-    # The Julia version that will be installed and added as `julia` to the PATH.
-    # See "Julia Versions" below for a list of valid values.
-    #
-    # Warning: It is strongly recommended to wrap this value in quotes.
-    #          Otherwise, the YAML parser used by GitHub Actions parses certain
-    #          versions as numbers which causes the wrong version to be selected.
-    #          For example, `1.0` may be parsed as `1`.
-    #
-    # Default: '1'
-    version: ''
-
-    # The architecture of the Julia binaries.
-    #
-    # Supported values: x64 | x86
-    #
-    # Default: x64
-    arch: ''
-
-    # Set the display setting for printing InteractiveUtils.versioninfo() after installing.
-    #
-    # Starting Julia and running InteractiveUtils.versioninfo() takes a significant amount of time (1s or ~10% of the total build time in testing),
-    # so you may not want to run it in every build, in particular on paid runners, as this cost will add up quickly.
-    #
-    # See "versioninfo" below for example usage and further explanations.
-    #
-    # Supported values: true | false | never
-    #
-    # true: Always print versioninfo
-    # false: Only print versioninfo for nightly Julia
-    # never: Never print versioninfo
-    #
-    # Default: false
-    show-versioninfo: ''
+  #  runs-on: ubuntu-latest
+    - uses: actions/checkout@v2
+      name: Check out repository
+    - uses: julia-actions/setup-julia@v1
+      name: Set up Julia on server
+    #- run:
+    
+  #  with:
+   # with: #can work too 
+   #  Julia version: 1.7.2 #works 
+  #  - version: 1.7.2
+    - run:
+       julia -e 'println("Hello, World!")'
