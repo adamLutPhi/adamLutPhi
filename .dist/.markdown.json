@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "$id": "https://github.com/adamwillisMastery",
+    "$comment": "comment",
+    "p": "<p>",
+    "br": "<br />",
+    "span": "<span >",
+
+    "no-inline-html": {
+        "allowed_elements": [
+            "details"
+        ]
+    }
+}
