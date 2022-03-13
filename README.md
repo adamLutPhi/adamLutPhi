@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/e5f8f2ad-46c8-449c-9ccb-a1f10dfae801.svg)](https://wakatime.com/@e5f8f2ad-46c8-449c-9ccb-a1f10dfae801)
 
 _"Before_ we could be _Computer Scientists_, we were Writers,
-yet before that, we may have been __pure Philosophers"__  return
+yet before that, we may have been __pure Philosophers"__
 
 
 ## programming
