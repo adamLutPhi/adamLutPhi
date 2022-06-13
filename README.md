@@ -3,19 +3,19 @@ _"Before_ we could be _Computer Scientists_, we were Writers,
 yet before that, we may have been __pure Philosophers"__
 
 
-# programming
+# Programming
 
-### Currently Programming
-1. [_Deep-learner_](https://github.com/adamwillisXanax/DeepLearner) :
+### Current
+1. _Deep-learning_ :
 1.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
 3. [_Accounting_](https://github.com/adamwillisXanax/Thee-accountant)
 4. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
-### Future projects
+### Future
 
 1. _Economics_
 
-2. __Mathematics__
+2. _Mathematics_
 
 
 ## Overview  
