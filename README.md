@@ -6,7 +6,7 @@ yet before that, we may have been __pure Philosophers"__
 # Programming
 
 ### Current
-1. [_Deep-learning_] : subdivisioned currently  into:
+1. [_Deep-learning_](https://github.com/adamwillisMastery/DeepLearner) : subdivisioned currently  into:
 
 1.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
 
