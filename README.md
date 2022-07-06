@@ -8,6 +8,7 @@ yet before that, we may have been __pure Philosophers"__
 ### Current
 1. [_Deep-learning_] : subdivisioned currently  into:
 1.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
+2.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
 3. [_Accounting_](https://github.com/adamwillisXanax/Thee-accountant)
 4. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
