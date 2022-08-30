@@ -12,8 +12,9 @@ yet before that, we may have been __pure Philosophers"__
 
 1.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
 
-3. [_Accounting_](https://github.com/adamwillisXanax/Thee-accountant)
-4. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
+2.1. [_Accounting_](https://github.com/adamwillisXanax/Thee-accountant)
+2.2. [pyAccountant](https://github.com/adamwillisMastery/pyAccountant) 
+5. [_Finance_](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
 ### Future
 
