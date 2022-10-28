@@ -7,13 +7,8 @@ yet before that, we may have been __pure Philosophers"__
 # Programming
 
 ### Current
-1. [_Deep-learning_](https://github.com/adamwillisMastery/DeepLearner) : subdivisioned currently  into:
 
-1.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
-
-1.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
-
-1.3 [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
+1. [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
 
 2. Accounting 
 
@@ -23,6 +18,14 @@ yet before that, we may have been __pure Philosophers"__
 
 3. _Finance_ 
 [Altman's Z-Score](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
+
+
+4. [_Deep-learning_](https://github.com/adamwillisMastery/DeepLearner) : subdivisioned currently  into:
+
+
+4.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
+
+4.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
 
 ### Future
 
