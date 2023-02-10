@@ -20,7 +20,7 @@ yet before that, we may have been __pure Philosophers"__
 [Altman's Z-Score](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
 
 
-4. [_Deep-learning_](https://github.com/adamwillisMastery/DeepLearner) : subdivisioned currently  into:
+4. [_Machine Learning_](https://github.com/adamwillisMastery/MachineLearner) : subdivisioned currently  into:
 
 
 4.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
