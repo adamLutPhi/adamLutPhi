@@ -26,6 +26,7 @@ yet before that, we may have been __pure Philosophers"__
 4.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
 
 4.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
+
 5.  No_AI 
 
 ### Future
