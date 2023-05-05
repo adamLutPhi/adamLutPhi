@@ -27,7 +27,7 @@ yet before that, we may have been __pure Philosophers"__
 
 4.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
 
-5.  No_AI 
+5.  [No_AI](https://github.com/adamwillisMastery/No_AI)
 
 ### Future
 
