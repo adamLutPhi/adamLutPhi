@@ -14,22 +14,22 @@ yet before that, we may have been __pure Philosophers"__
   
 3. Accounting 
 
-2.1. [_pyAccountant_](https://github.com/adamwillisMastery/pyAccountant) 
+2.1. [_pyAccountant_](https://github.com/adamLutPhi/pyAccountant) 
 
-2.2. [_Accounting_](https://github.com/adamwillisXanax/Thee-accountant)
+2.2. [_Accounting_](https://github.com/aadamLutPhi/Thee-accountant)
 
 3. _Finance_ 
-[Altman's Z-Score](https://github.com/adamwillisXanax/SolvencyPredictor/blob/main/README.md)
+[Altman's Z-Score](https://github.com/adamLutPhi/SolvencyPredictor/blob/main/README.md)
 
 
-4. [_Machine Learning_](https://github.com/adamwillisMastery/MachineLearner) : subdivisioned currently  into:
+4. [_Machine Learning_](https://github.com/adamLutPhi/MachineLearner) : subdivisioned currently  into:
 
 
-4.1. [Cause Effect Model](https://github.com/adamwillisMastery/CauseEffect)
+4.1. [Cause Effect Model](https://github.com/adamLutPhi/CauseEffect)
 
-4.2. [Laplace](https://github.com/adamwillisMastery/Laplace)
+4.2. [Laplace](https://github.com/adamLutPhi/Laplace)
 
-5.  [No_AI](https://github.com/adamwillisMastery/No_AI)
+5.  [No_AI](https://github.com/adamLutPhi/No_AI)
 
 6. _Mathematics_
 
@@ -40,9 +40,9 @@ yet before that, we may have been __pure Philosophers"__
 
 ## Overview  
 
-![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwillisMastery&show_icons=true&theme)  
+![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamLutPhi&show_icons=true&theme)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adamwillisMastery)
-](https://github-profile-trophy.vercel.app/?username=adamwillisMastery)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=adamLutPhi)
+](https://github-profile-trophy.vercel.app/?username=adamLutPhi)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwillisMastery&hide=kotlin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwillisMastery&hide=kotlin&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamLutPhi&hide=kotlin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=adamLutPhi&hide=kotlin&layout=compact)
