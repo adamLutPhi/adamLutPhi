@@ -7,10 +7,12 @@ yet before that, we may have been __pure Philosophers"__
 # Programming
 
 ### Current
+1. Tutorial
+   
+1.1 [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
 
-1. [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
-
-2. Accounting 
+  
+3. Accounting 
 
 2.1. [_pyAccountant_](https://github.com/adamwillisMastery/pyAccountant) 
 
@@ -29,11 +31,11 @@ yet before that, we may have been __pure Philosophers"__
 
 5.  [No_AI](https://github.com/adamwillisMastery/No_AI)
 
-### Future
+6. _Mathematics_
 
-1. _Economics_
+7. _Economics_
 
-2. _Mathematics_
+8. Freetime
 
 
 ## Overview  
