@@ -1,8 +1,5 @@
-- What's more beautiful than your `eyes` is your `Intuition`, that made us cross-paths 
-
 - _"Before_ we could be _Computer Scientists_, we were Writers,
 yet before that, we may have been __pure Philosophers"__
-
 
 # Programming
 
