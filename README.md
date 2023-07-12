@@ -7,7 +7,7 @@ yet before that, we may have been __pure Philosophers"__
 1. Tutorial
    
 1.1 [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
-
+1.2 PythonTutorials
   
 3. Accounting 
 
