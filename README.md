@@ -1,6 +1,9 @@
 - _"Before_ we could be _Computer Scientists_, we were Writers,
 yet before that, we may have been __pure Philosophers"__
-yet I'm seem just a fool that know None
+Knower of None, hard but true
+Here to Learn fail, win, and inspire.
+
+
 
 # Programming
 
