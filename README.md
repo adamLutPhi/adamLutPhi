@@ -1,11 +1,15 @@
+
 _"Before_ we could be _Computer Scientists_, we were Writers,
 yet before that, we may have been __pure Philosophers"__
 
 Knower of None,
 
-To Learn, fail, 
+Learn, fail, 
 
-win, and inspire
+Sow, then,
+
+inspire
+
 
 
 
@@ -38,7 +42,9 @@ win, and inspire
 
 6. _Mathematics_
 
+   
    [Leonard](https://github.com/adamLutPhi/Leonard)
+   
 
    [LatexTutorial](https://github.com/adamLutPhi/LatexTutorial)
 
