@@ -4,10 +4,8 @@ Knower of None, hard but true
 Here to Learn fail, win, and inspire.
 
 
+# Repositories
 
-# Programming
-
-### Current
 1. Tutorial
    
 1.1 [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
@@ -34,10 +32,12 @@ Here to Learn fail, win, and inspire.
 5.  [No_AI](https://github.com/adamLutPhi/No_AI)
 
 6. _Mathematics_
+   [Leonard](https://github.com/adamLutPhi/Leonard)
 
-7. _Economics_
+   
+8. _Economics_
 
-8. Freetime
+9. Freetime
 
 
 ## Overview  
