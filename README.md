@@ -1,7 +1,11 @@
-- _"Before_ we could be _Computer Scientists_, we were Writers,
+ _"Before_ we could be _Computer Scientists_, we were Writers,
 yet before that, we may have been __pure Philosophers"__
-Knower of None, hard but true
-Here to Learn fail, win, and inspire.
+
+Knower of None, 
+
+Learn, fail, 
+
+win, inspire
 
 
 # Repositories
@@ -32,8 +36,10 @@ Here to Learn fail, win, and inspire.
 5.  [No_AI](https://github.com/adamLutPhi/No_AI)
 
 6. _Mathematics_
+
    [Leonard](https://github.com/adamLutPhi/Leonard)
 
+   [LatexTutorial](https://github.com/adamLutPhi/LatexTutorial)
    
 8. _Economics_
 
