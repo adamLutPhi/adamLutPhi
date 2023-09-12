@@ -61,7 +61,7 @@ inspire
 
 ## Overview  
 
-![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamLutPhi&show_icons=true&theme)  
+![Ahmad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adamLutPhi&show_icons=true)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adamLutPhi)
 ](https://github-profile-trophy.vercel.app/?username=adamLutPhi)  
