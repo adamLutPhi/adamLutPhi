@@ -20,6 +20,10 @@ inspire
 1.1 [JuliaTutorials](https://github.com/adamwillisMastery/JuliaTutorials)
 
 1.2 PythonTutorials
+
+1. [MosheTest](https://github.com/adamLutPhi/MosheTest)
+
+2. [Neilsen](https://github.com/adamLutPhi/Neilsen)
   
 2. Accounting 
 
@@ -42,16 +46,17 @@ inspire
 
 6. _Mathematics_
 
-   
+
    [Leonard](https://github.com/adamLutPhi/Leonard)
    
 
    [LatexTutorial](https://github.com/adamLutPhi/LatexTutorial)
 
-   
 8. _Economics_
 
 9. Freetime
+   
+[LadyLiberty](https://github.com/adamLutPhi/LadyLiberty)
 
 
 ## Overview  
